@@ -5,7 +5,7 @@ html,body {
 } 
 
 body {
-    background-image: url(../image/b9r5sEL.jpg);
+    background-image: url(../01JavaScript/image/b9r5sEL.jpg);
     background-size: cover;   /* 缩放背景图片以完全覆盖背景区  */
     display: flex;
      /* 垂直置中 & 水平置中 */
